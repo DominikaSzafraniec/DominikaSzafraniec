@@ -1,8 +1,7 @@
 <div>
   <h3 align="center">Hi! ✌</h3>
   </div>
-  <p align="center">I'm Dominika</p>
-  <p align="center">a future Web Developer 💻</p>
+
   <hr>
 <br>
 
